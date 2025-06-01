@@ -1,0 +1,3 @@
+.test {
+    --scope-hash: 1-mz /* Collision-prevention ID */
+}
